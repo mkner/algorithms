@@ -1,4 +1,4 @@
-A Collection Of Algorithms
+Various Algorithms
 --------------------------
 
 
