@@ -1,4 +1,5 @@
-#A Collection Of Algorithms
+A Collection Of Algorithms
+--------------------------
 
 
 
