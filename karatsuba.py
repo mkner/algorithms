@@ -2,9 +2,9 @@
 # mk
 # v0.02
 # 
-# Karatsuba Multiplication
+# Karatsuba Multiplication Algorithm
 #
-# short and clean python implementation of Karatsuba Fast Multiplication Algorithm
+# short and clean python implementation of Karatsuba's Fast Multiplication Algorithm
 # based on Stanford Algorithms Course CS161 - Roughgarden
 # includes example - multiply 64 digit representations of pi and e
 #
